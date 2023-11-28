@@ -1,0 +1,12 @@
+.Categories {
+display: inline !important;
+background-color: red !important;
+width: 100px;
+height: 100px;
+
+}
+
+.NavBar {
+    display: inline !important;
+    background-color: red !important;
+}
